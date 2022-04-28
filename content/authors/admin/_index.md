@@ -72,7 +72,7 @@ email: ''
 highlight_name: true
 ---
 
-Michele Pompilio is a graduated in Computer Engineering at the Politecnico di Torino. His studies focused on automation and intellingent CPS, with a M.Sc. thesis on wearable robotics applied in the telemedicine field. Actually he collaborates with the University of Siena on the developement of new wearable robotic systems.
+Michele Pompilio graduated in Computer Engineering at the Politecnico di Torino. His studies focused on automation and intellingent CPS, with a M.Sc. thesis on wearable robotics applied in the telemedicine field. Actually he collaborates with the University of Siena on the developement of new wearable robotic systems.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
