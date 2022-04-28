@@ -16,7 +16,7 @@ organizations:
     url: https://www.polito.it/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+#bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
@@ -72,7 +72,7 @@ email: ''
 highlight_name: true
 ---
 
-Michele Pompilio is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Michele Pompilio is a graduated in Computer Engineering at the Politecnico di Torino. His studies focused on automation and intellingent CPS, with a M.Sc. thesis on wearable robotics applied in the telemedicine field. Actually he collaborates with the University of Siena on the developement of new wearable robotic systems.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
