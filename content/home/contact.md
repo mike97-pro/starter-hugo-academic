@@ -26,7 +26,7 @@ content:
 
   # Contact details (edit or remove options as required)
   email: mike.pompilio97@gmail.com
-  #phone: 888 888 88 88
+  phone: +39 3331519771
   address:
     street: via Roma, 56
     city: Siena
@@ -50,6 +50,9 @@ content:
     - icon: telegram
       icon_pack: fab
       name:  Telegram
+    - icon: linkedin
+      icon_pack: fab
+      name:  Linkedin
       link: 'https://twitter.com/Twitter'
     - icon: video
       icon_pack: fas
