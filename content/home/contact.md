@@ -43,9 +43,9 @@ content:
   #  - 'Wednesday 09:00 to 10:00'
   #appointment_url: 'https://calendly.com'
   contact_links:
-    - icon: telegram
+    - icon: instagram
       icon_pack: fab
-      name: DM Me
+      name:  Instagram
       link: 'https://twitter.com/Twitter'
     - icon: video
       icon_pack: fas
