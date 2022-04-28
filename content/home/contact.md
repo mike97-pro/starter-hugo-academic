@@ -47,9 +47,13 @@ content:
       icon_pack: fab
       name:  Instagram
       link: 'https://twitter.com/Twitter'
+    - icon: telegram
+      icon_pack: fab
+      name:  Telegram
+      link: 'https://twitter.com/Twitter'
     - icon: video
       icon_pack: fas
-      name: Zoom Me
+      name: Skype
       link: 'https://zoom.com'
 
 design:
