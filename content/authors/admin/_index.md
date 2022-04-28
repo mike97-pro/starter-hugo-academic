@@ -29,10 +29,10 @@ education:
   courses:
     - course: M.Sc. in Computer Engineering
       institution: Politecnico di Torino
-      year: 2019-2022
+      year: 2019 - 2022
     - course: BSc in Computer Engineering
       institution: Politecnico di Torino
-      year: 2016-2019
+      year: 2016 - 2019
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -42,9 +42,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:mike.pompilio97@gmail.com'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+#  - icon: twitter
+#    icon_pack: fab
+#    link: https://twitter.com/GeorgeCushen
   - icon: github
     icon_pack: fab
     link: https://github.com/mike97-pro
