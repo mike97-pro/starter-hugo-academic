@@ -54,8 +54,8 @@ content:
       icon_pack: fab
       name:  Linkedin
       link: 'https://twitter.com/Twitter'
-    - icon: video
-      icon_pack: fas
+    - icon: skype
+      icon_pack: fab
       name: Skype
       link: 'https://zoom.com'
 
