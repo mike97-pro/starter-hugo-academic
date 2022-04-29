@@ -54,7 +54,7 @@ content:
     - icon: whatsapp
       icon_pack: fab
       name:  Whatsapp
-      link: 'https://api.whatsapp.com/send?phone=+393331519771'
+      link: 'https://wa.me/+393331519771'
     - icon: linkedin
       icon_pack: fab
       name:  Linkedin
