@@ -16,10 +16,6 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: b
-    icon: people-group
-    icon_pack: fas
-    name:  Ability to adapt 
   - description: I love learning new skills and knowledge on an on-going basis.
     icon: microscope
     icon_pack: fas
