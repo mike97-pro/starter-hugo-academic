@@ -20,14 +20,14 @@ feature:
     icon: r-project
     icon_pack: fab
     name: R
-  - description: 100%
+  - description: C, C++, Python, Java, Matlab, ROS and much more...
     icon: chart-line
     icon_pack: fas
-    name: Statistics
+    name: Programming
   - description: 10%
-    icon: camera-retro
+    icon: robot
     icon_pack: fas
-    name: Photography
+    name: Maker
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
