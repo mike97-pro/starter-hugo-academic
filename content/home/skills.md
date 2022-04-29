@@ -16,15 +16,19 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: 90%
-    icon: r-project
+  - description:
+    icon: people-group
     icon_pack: fab
-    name: R
+    name:  Ability to adapt 
+  - description: I love learning new skills and knowledge on an on-going basis.
+    icon: microscope
+    icon_pack: fab
+    name: Continuous learning
   - description: C, C++, Python, Java, Matlab, ROS and much more...
-    icon: chart-line
+    icon: microchip
     icon_pack: fas
     name: Programming
-  - description: 10%
+  - description: Electronics, Robotics, 3-D printing.
     icon: robot
     icon_pack: fas
     name: Maker
