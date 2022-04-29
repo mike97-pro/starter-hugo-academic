@@ -18,11 +18,11 @@ subtitle:
 feature:
   - description:
     icon: people-group
-    icon_pack: fab
+    icon_pack: fas
     name:  Ability to adapt 
   - description: I love learning new skills and knowledge on an on-going basis.
     icon: microscope
-    icon_pack: fab
+    icon_pack: fas
     name: Continuous learning
   - description: C, C++, Python, Java, Matlab, ROS and much more...
     icon: microchip
