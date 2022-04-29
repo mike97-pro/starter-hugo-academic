@@ -46,10 +46,15 @@ content:
     - icon: instagram
       icon_pack: fab
       name:  Instagram
-      link: 'https://twitter.com/Twitter'
+      link: 'https://www.instagram.com/mike_pompilio/'
     - icon: telegram
       icon_pack: fab
       name:  Telegram
+      link: 'https://t.me/MichelePompilio97'
+    - icon: whatsapp
+      icon_pack: fab
+      name:  Whatsapp
+      link: 'https://api.whatsapp.com/send?phone=+393331519771'
     - icon: linkedin
       icon_pack: fab
       name:  Linkedin
@@ -57,7 +62,7 @@ content:
     - icon: skype
       icon_pack: fab
       name: Skype
-      link: 'https://zoom.com'
+      link: 'https://join.skype.com/invite/OLRqiMaA3YuE'
 
 design:
   columns: '2'
