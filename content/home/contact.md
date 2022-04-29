@@ -47,6 +47,10 @@ content:
       icon_pack: fab
       name:  Instagram
       link: 'https://www.instagram.com/mike_pompilio/'
+    - icon: facebook
+      icon_pack: fab
+      name:  Facebook
+      link: 'https://www.facebook.com/michele.pompilio.9'
     - icon: telegram
       icon_pack: fab
       name:  Telegram
@@ -58,7 +62,7 @@ content:
     - icon: linkedin
       icon_pack: fab
       name:  Linkedin
-      link: 'https://twitter.com/Twitter'
+      link: 'https://www.linkedin.com/in/michele-pompilio-84a29b239'
     - icon: skype
       icon_pack: fab
       name: Skype
