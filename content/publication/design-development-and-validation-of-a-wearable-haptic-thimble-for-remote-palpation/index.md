@@ -34,7 +34,7 @@ featured: false
 tags: []
 categories: []
 image:
-  filename: ""
+  filename: "polito_logo_2021_blu-removebg-preview.png"
   focal_point: Smart
   preview_only: false
   alt_text: ""
