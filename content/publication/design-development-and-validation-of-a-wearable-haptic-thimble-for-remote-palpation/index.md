@@ -1,11 +1,12 @@
 ---
 title: "\tMaster Thesis"
-subtitle: Design, Development, and Validation of a Wearable Haptic Thimble for
-  Remote Palpation
+subtitle: ""
 publication_types:
   - "7"
 authors:
   - admin
+publication: Design, Development, and Validation of a Wearable Haptic Thimble
+  for Remote Palpation
 abstract: During the last years, the need for telemedicine to face the challenge
   of health-care delivery in critical situations, as for example outbreaks of
   pandemic diseases, has acquired increasing importance. Despite that, there is
@@ -37,5 +38,6 @@ image:
   focal_point: Smart
   preview_only: false
   alt_text: ""
+  caption: ""
 date: 2022-05-03T17:04:35.240Z
 ---
