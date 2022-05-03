@@ -30,18 +30,17 @@ abstract: During the last years, the need for telemedicine to face the challenge
   audio-video information and tactile information related to the telepalpation
   system.
 draft: false
+url_pdf: ""
+url_video: https://drive.google.com/file/d/1FR1Fer4RswdbyWxPyS9FFmMjTgRDMJuq/view?usp=sharing
 featured: false
 tags: []
 categories: []
 image:
-  filename: "polito_logo_2021_blu-removebg-preview.png"
-  focal_point: Smart
+  filename: polito_logo_2021_blu-removebg-preview.png
+  focal_point: Center
   preview_only: false
   alt_text: ""
   caption: ""
 date: 2022-05-03T17:04:35.240Z
-
-url_code: 'https://github.com/mike97-pro/MScThesis.git'
-url_pdf: ''
-url_video: 'https://drive.google.com/file/d/1FR1Fer4RswdbyWxPyS9FFmMjTgRDMJuq/view?usp=sharing'
+url_code: https://github.com/mike97-pro/MScThesis.git
 ---
