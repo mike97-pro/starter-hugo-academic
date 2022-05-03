@@ -29,9 +29,11 @@ abstract: During the last years, the need for telemedicine to face the challenge
   system.
 draft: false
 featured: false
+categories: []
 image:
   filename: polito_logo_2021_blu.jpg
   focal_point: Smart
   preview_only: false
+  alt_text: Master Thesis
 date: 2022-05-03T17:04:35.240Z
 ---
