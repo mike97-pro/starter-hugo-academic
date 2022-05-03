@@ -40,4 +40,8 @@ image:
   alt_text: ""
   caption: ""
 date: 2022-05-03T17:04:35.240Z
+
+url_code: 'https://github.com/mike97-pro/MScThesis.git'
+url_pdf: ''
+url_video: 'https://drive.google.com/file/d/1FR1Fer4RswdbyWxPyS9FFmMjTgRDMJuq/view?usp=sharing'
 ---
