@@ -8,7 +8,7 @@ featured: false
 authors:
   - admin
 tags:
-  - School;Robotics;
+  - School
 categories: []
 links:
   - url: https://drive.google.com/file/d/1DUDxJUu9JqlYwmivFp83XZwBaq3zF8xg/view?usp=sharing
