@@ -36,7 +36,7 @@ featured: false
 tags: []
 categories: []
 image:
-  filename: polito_logo_2021_blu-removebg-preview.png
+  filename: featured.png
   focal_point: Center
   preview_only: false
   alt_text: ""
