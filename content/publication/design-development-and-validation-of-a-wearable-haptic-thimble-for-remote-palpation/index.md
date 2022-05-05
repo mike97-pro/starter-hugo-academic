@@ -36,7 +36,7 @@ featured: false
 tags: []
 categories: []
 image:
-  filename: featured.png
+  filename: featured.jpg
   focal_point: Center
   preview_only: false
   alt_text: ""
