@@ -8,8 +8,8 @@ featured: false
 authors:
   - admin
 tags:
-  - School
-categories: []
+  - Robotics
+categories: [School]
 links:
   - url: https://drive.google.com/file/d/1DUDxJUu9JqlYwmivFp83XZwBaq3zF8xg/view?usp=sharing
     name: Video
