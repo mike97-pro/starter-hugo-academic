@@ -8,7 +8,7 @@ featured: false
 authors:
   - admin
 tags:
-  - School
+  - School;Robotics;
 categories: []
 links:
   - url: https://drive.google.com/file/d/1DUDxJUu9JqlYwmivFp83XZwBaq3zF8xg/view?usp=sharing
@@ -19,7 +19,7 @@ links:
     name: Code
 image:
   filename: f0414912.jpg
-  focal_point: Smart
+  focal_point: Top
   preview_only: false
 ---
 Da sempre l’uomo reputa il proprio corpo la miglior macchina mai creata, plasmata da milioni di anni di evoluzione e selezione, perfetta per interagire con l’ambiente che la circonda; per questo la progettazione dei robot tende a ricalcare l’anatomia umana progettando macchine sempre più antropomorfe. Queste considerazioni mi hanno da sempre appassionato portandomi ad amare il mondo dell’automazione e della robotica. Ho deciso di dar sfogo alla mia passione realizzando il robot Mark III composto da un programma di controllo sviluppato in C++, una scheda di controllo e dal robot vero e proprio.
