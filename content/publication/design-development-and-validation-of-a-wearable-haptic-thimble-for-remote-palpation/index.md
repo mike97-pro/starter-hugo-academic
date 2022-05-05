@@ -30,7 +30,7 @@ abstract: During the last years, the need for telemedicine to face the challenge
   audio-video information and tactile information related to the telepalpation
   system.
 draft: false
-url_pdf: ""
+url_pdf: https://drive.google.com/file/d/1z0DXXzm3kywNnUDgGg3NIuNKx8wNZM5A/view?usp=sharing
 url_video: https://drive.google.com/file/d/1FR1Fer4RswdbyWxPyS9FFmMjTgRDMJuq/view?usp=sharing
 featured: false
 tags: []
