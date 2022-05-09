@@ -17,8 +17,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Lo scopo del progetto `e stato quello di estendere le
-funzionalit`a di una Faster R-CNN facendo in modo che
-quest’ultima sia in grado oltre che di rilevare e classificare
-gli oggetti all’interno di un’immagine, anche di rilevare
-i ”grasp” a loro associati.
+Lo scopo del progetto è stato quello di estendere le funzionalità di una Faster R-CNN facendo in modo che quest’ultima sia in grado oltre che di rilevare e classificare gli oggetti all’interno di un’immagine, anche di rilevare i ”grasp” a loro associati.
