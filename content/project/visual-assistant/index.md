@@ -15,7 +15,9 @@ links:
   - url: https://github.com/mike97-pro/Visual-Assistant.git
     name: Code
 image:
-  filename: featured
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 ---
+Lo scopo del progetto è stato quello di realizzare un’applicazione in grado di identificare e riconoscere
+gli oggetti all’interno di una scena, e di dare all’utente la possibilità di interagire con il risultato ottenuto.
