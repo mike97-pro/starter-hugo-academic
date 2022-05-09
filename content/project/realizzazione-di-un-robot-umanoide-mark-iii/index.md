@@ -9,6 +9,7 @@ authors:
   - admin
 tags:
   - Robotics
+  - School
 categories:
   - School
 links:
