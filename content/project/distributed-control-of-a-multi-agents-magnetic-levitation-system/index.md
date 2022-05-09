@@ -3,6 +3,10 @@ title: Distributed control of a multi-agents  magnetic levitation system
 date: 2022-05-09T13:28:25.265Z
 draft: false
 featured: false
+authors:
+  - admin
+tags:
+  - University
 links:
   - name: PDF
     url: https://drive.google.com/file/d/1uGfskKY9XgExqeF_oxIp-4eMdS3qDKxo/view?usp=sharing
