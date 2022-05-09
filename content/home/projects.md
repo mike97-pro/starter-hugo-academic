@@ -29,8 +29,10 @@ content:
       tag: '*'
     - name: Robotics
       tag: Robotics
-    - name: Other
-      tag: Demo
+    - name: University
+      tag: University
+    - name: School
+      tag: School
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
