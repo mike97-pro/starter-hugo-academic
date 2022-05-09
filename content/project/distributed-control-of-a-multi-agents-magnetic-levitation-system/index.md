@@ -13,7 +13,7 @@ links:
   - name: Code
     url: https://github.com/mike97-pro/magLev-systems.git
 image:
-  filename: featured
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 ---
