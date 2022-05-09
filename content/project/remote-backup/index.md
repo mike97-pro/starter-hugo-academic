@@ -3,6 +3,10 @@ title: Remote backup
 date: 2022-05-09T12:57:37.539Z
 draft: false
 featured: false
+authors:
+  - admin
+tags:
+  - University
 links:
   - url: https://drive.google.com/file/d/1wE6ozt0LvAdFAZtpQhD_rOn7XE5Jry87/view?usp=sharing
     name: PDF
