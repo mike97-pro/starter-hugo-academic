@@ -71,4 +71,4 @@ content:
 design:
   columns: '2'
 ---
-{{<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2902.9787302873647!2d11.337264115769676!3d43.31470468227036!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x132a2cb25da101bf%3A0x35dec447f6a45a23!2sUniversit%C3%A0%20di%20Siena%20-%20Complesso%20universitario%20San%20Niccol%C3%B2!5e0!3m2!1sit!2sit!4v1652107063010!5m2!1sit!2sit" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"><\iframe>}}
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2902.9787302873647!2d11.337264115769676!3d43.31470468227036!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x132a2cb25da101bf%3A0x35dec447f6a45a23!2sUniversit%C3%A0%20di%20Siena%20-%20Complesso%20universitario%20San%20Niccol%C3%B2!5e0!3m2!1sit!2sit!4v1652107063010!5m2!1sit!2sit" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"><\iframe>
