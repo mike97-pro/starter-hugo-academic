@@ -6,7 +6,7 @@ experience:
   - title: Research fellow
     company: SirsLab
     company_url: "http://sirslab.dii.unisi.it/"
-    company_logo: 
+    company_logo: si-logo
     location: Siena
     date_start: 2022-05-01
     date_end: ""
