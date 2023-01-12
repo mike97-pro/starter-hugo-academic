@@ -27,7 +27,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Ph.D. in Robotics and Intelligent Machines
+    - course: Ph.D. in Robotics and Intelligent Machines
       institution: Institute for Robotics and Intelligent Machines
       year: 2022 - 
     - course: M.Sc. in Computer Engineering
