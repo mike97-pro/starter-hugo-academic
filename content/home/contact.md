@@ -26,7 +26,7 @@ content:
 
   # Contact details (edit or remove options as required)
   email: mike.pompilio97@gmail.com
-  phone: +39 3331519771
+  #phone: +39 3331519771
   address:
     street: via Roma, 56
     city: Siena
@@ -37,7 +37,7 @@ content:
   coordinates:
     latitude: '43.313663'
     longitude: '11.338194'
-  #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  directions: Robotic Systems Laboratory, Room 237
   #office_hours:
   #  - 'Monday 10:00 to 13:00'
   #  - 'Wednesday 09:00 to 10:00'
@@ -55,10 +55,6 @@ content:
       icon_pack: fab
       name:  Telegram
       link: 'https://t.me/MichelePompilio97'
-    - icon: whatsapp
-      icon_pack: fab
-      name:  Whatsapp
-      link: 'https://wa.me/+393331519771'
     - icon: linkedin
       icon_pack: fab
       name:  Linkedin
