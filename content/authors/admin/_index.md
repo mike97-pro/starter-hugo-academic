@@ -12,8 +12,8 @@ role: M.Sc. in Computer Engineering
 organizations:
   - name: University of Siena
     url: https://www.unisi.it/
-  - name: U
-    url: https://www.polito.it/
+  - name: Institute for Robotics and Intelligent Machines
+    url: https://i-rim.it/en/
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -29,7 +29,7 @@ education:
   courses:
     - course: Ph.D. in Robotics and Intelligent Machines
       institution: Institute for Robotics and Intelligent Machines
-      year: 2022 - 
+      year: 2022 - Present
     - course: M.Sc. in Computer Engineering
       institution: Politecnico di Torino
       year: 2019 - 2022
