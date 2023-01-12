@@ -29,7 +29,7 @@ education:
   courses:
     - course: Ph.D. in Robotics and Intelligent Machines
       institution: Institute for Robotics and Intelligent Machines
-      year: 2022 - Present
+      year: 01/11/2022 - Present
     - course: M.Sc. in Computer Engineering
       institution: Politecnico di Torino
       year: 2019 - 2022
