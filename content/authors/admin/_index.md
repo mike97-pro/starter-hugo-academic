@@ -12,7 +12,7 @@ role: M.Sc. in Computer Engineering
 organizations:
   - name: University of Siena
     url: https://www.unisi.it/
-  - name: Politecnico di Torino
+  - name: U
     url: https://www.polito.it/
 
 # Short bio (displayed in user profile at end of posts)
@@ -27,6 +27,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
+  - course: Ph.D. in Robotics and Intelligent Machines
+      institution: Institute for Robotics and Intelligent Machines
+      year: 2022 - 
     - course: M.Sc. in Computer Engineering
       institution: Politecnico di Torino
       year: 2019 - 2022
@@ -69,7 +72,7 @@ email: ''
 highlight_name: true
 ---
 
-Michele Pompilio graduated in Computer Engineering at the Politecnico di Torino. His studies focused on automation and intellingent CPS, with a M.Sc. thesis on wearable robotics applied in the telemedicine field. Actually he collaborates with the University of Siena on the developement of new wearable robotic systems.
+Michele Pompilio graduated in Computer Engineering at the Politecnico di Torino. His studies focused on automation and intellingent CPS, with a M.Sc. thesis on wearable robotics applied in the telemedicine field. Actually he is a Robotics for Healthcare Ph.D. student at the University of Siena, where he is continuing his studies on the developement of new wearable robotic systems.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
