@@ -9,7 +9,7 @@ experience:
     company_logo: si-logo
     location: Siena
     date_start: 2022-05-01
-    date_end: ""
+    date_end: 2022-09-01
     description: |-2
         Responsibilities include:
         
